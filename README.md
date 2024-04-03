@@ -8,7 +8,6 @@ This project served as an opportunity to learn writing a web API with ASP.NET co
 
 ![alt text](image-1.png)
 
-
 ## Getting started
 - After cloning repo, make sure you have MSSQL server set up.
 - IMPORTANT: replace your own MSSQL server information in the OnConfiguring method of ShiftLogContext.cs.
@@ -17,3 +16,6 @@ This project served as an opportunity to learn writing a web API with ASP.NET co
 
 ## Comments
 - While this is just a simple project meant for learning about APIs and practicing the repository pattern, all are welcome to use this as a template for an ASP.net API or any other purpose you can think of.
+
+## Credit
+This project was originally forked from the [C# Academy repo](https://github.com/TheCSharpAcademy/CodeReviews.Console.ShiftsLogger). It has been reuploaded to its own independent repo because the fork contained other students' versions of the project. Shout out to Pablo for making such a great resource!
